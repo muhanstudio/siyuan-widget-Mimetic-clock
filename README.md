@@ -1,1 +1,1 @@
-> A beautiful mimetic clock.Ÿ
+> A beautiful mimetic clock.
