@@ -1,0 +1,30 @@
+{
+  "name": "Mimetic-clock",
+  "author": "muhanstudio",
+  "url": "https://github.com/muhanstudio/siyuan-widget-Mimetic-clock",
+  "version": "0.0.2",
+  "minAppVersion": "1.1.1",
+  "displayName": {
+    "default": "Mimetic-clock",
+    "zh_CN": "拟态时钟"
+  },
+  "description": {
+    "default": "A beautiful mimetic clock.",
+    "zh_CN": "一个漂亮的拟态时钟。"
+  },
+  "readme": {
+    "default": "README.md",
+    "zh_CN": "README_zh_CN.md"
+  },
+  "funding": {
+    "openCollective": "",
+    "patreon": "",
+    "github": "",
+    "custom": [
+      ""
+    ]
+  },
+  "keywords": [
+    "时钟", "clock"
+  ]
+}
