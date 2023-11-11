@@ -13,6 +13,7 @@ body{
   display: flex;
   justify-content: center;
   align-items: center;
+  height: 180px;
 }
 
 .clock{
@@ -116,6 +117,10 @@ body{
   width: 4px;
 }
 
+.scale-div {
+  transform: scale(0.6); /* 这将缩小到原始大小的50% */
+}
+
 .clock .numbers .circle#mn i{
   transform: scaleY(0.45);
 }
@@ -125,5 +130,4 @@ body{
   transform: scaleY(0.55);
   background-color: #e91e63;
   box-shadow:0 30px 0 #e91e63;
-}ox-shadow:0 30px 0 #e91e63;
 }
